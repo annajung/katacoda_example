@@ -1,2 +1,1 @@
-# katacoda_example
-kata
+# Katacoda Scenarios
