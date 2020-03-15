@@ -1,3 +1,5 @@
+Katacoda supports inline interactive quiz elements that can be included as any step within the scenario. The Quiz format supports different question and answer styles. Users cannot proceed until they have answered all the questions correctly.
+
 ## Example Quiz
 
 Within Q1, requires are users to enter the exact string.

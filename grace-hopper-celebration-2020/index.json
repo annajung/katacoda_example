@@ -7,11 +7,11 @@
     "steps": [
       {
         "title": "Step 1",
-        "text": "step1.md"
+        "text": "quiz.md"
       },
       {
         "title": "Step 2",
-        "text": "step2.md"
+        "text": "dashboard-tabs-iframe.md"
       }
     ],
     "intro": {
@@ -25,6 +25,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes"
+    "imageid": "kubernetes-cluster-running"
   }
 }
