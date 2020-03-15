@@ -6,8 +6,8 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
-        "text": "quiz.md"
+        "title": "What is Kubernetes?",
+        "text": "kubernetes-intro.md"
       },
       {
         "title": "Step 2",
