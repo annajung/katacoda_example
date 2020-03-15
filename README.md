@@ -1,1 +1,2 @@
 # katacoda_example
+kata
