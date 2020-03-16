@@ -6,6 +6,10 @@
   "details": {
     "steps": [
       {
+        "title": "Meet Anna and Katrina",
+        "text": "bio.md"
+      },
+      {
         "title": "What is Kubernetes?",
         "text": "kubernetes-intro.md"
       },
