@@ -1,6 +1,4 @@
-![Kubernetes Logo](/katacoda_example/grace-hopper-celebration-2020/assets/kubernetes-icon-color.png)
-
-<img src="./assets/kubernetes-icon-color.png" alt="Kubernetes Logo"/>
+<img src="./assets/kubernetes-icon-color.png" alt="Kubernetes Logo" width="1501"/>
 
 # Official Definition
 > "Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes services, support, and tools are widely available." - [kubernetes.io](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
