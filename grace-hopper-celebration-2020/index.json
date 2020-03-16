@@ -10,8 +10,8 @@
         "text": "bio.md"
       },
       {
-        "title": "Meet Anna and Katrina",
-        "text": "bio.md"
+        "title": "You think you know Kubernetes?",
+        "text": "kubernetes-quiz1.md"
       },
       {
         "title": "Let's talk about this thing called Kubernetes",
@@ -31,7 +31,7 @@
       },
       {
         "title": "Were you paying attention?",
-        "text": "kubernetes-quiz.md"
+        "text": "kubernetes-quiz2.md"
       },
       {
         "title": "Walk the Walk",
