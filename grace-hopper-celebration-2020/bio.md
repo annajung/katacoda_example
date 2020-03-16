@@ -2,8 +2,6 @@
 
 # Hello 👋 Thank you for joining us! 
 
-<br />
-
 ##### Anna Jung
 ##### Senior DevOps Engineer, SAP
 
@@ -23,7 +21,7 @@ Anna Jung is a Senior DevOps Engineer at SAP and has spent the last two years en
 - [Twitter](https://twitter.com/antheajung)
 - [LinkedIn](https://www.linkedin.com/in/antheajung)
 
-# Meet Katrina
+
 ##### Katrina Steinman
 ##### DevOps Engineer, SAP
 
