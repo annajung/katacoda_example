@@ -1,0 +1,1 @@
+Basic resources: pods, service, deployment, and etc.

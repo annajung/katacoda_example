@@ -1,1 +1,1 @@
-Testing Katacoda
+Kubernetes workshop

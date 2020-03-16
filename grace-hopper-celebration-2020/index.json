@@ -10,12 +10,36 @@
         "text": "bio.md"
       },
       {
-        "title": "What is Kubernetes?",
+        "title": "Meet Anna and Katrina",
+        "text": "bio.md"
+      },
+      {
+        "title": "Let's talk about this thing called Kubernetes",
         "text": "kubernetes-intro.md"
       },
       {
-        "title": "Step 2",
-        "text": "dashboard-tabs-iframe.md"
+        "title": "The \"Ar-chi-tec-ture\"",
+        "text": "kubernetes-architecture.md"
+      },
+      {
+        "title": "Did someone say yaml?",
+        "text": "kubernetes-yaml.md"
+      },
+      {
+        "title": "Learn to speak like a Kubernetes expert",
+        "text": "kubernetes-basic-resources.md"
+      },
+      {
+        "title": "Were you paying attention?",
+        "text": "kubernetes-quiz.md"
+      },
+      {
+        "title": "Walk the Walk",
+        "text": "kubernetes-ckad-cka.md"
+      },
+      {
+        "title": "TL;DR",
+        "text": "kubernetes-takeaways.md"
       }
     ],
     "intro": {
