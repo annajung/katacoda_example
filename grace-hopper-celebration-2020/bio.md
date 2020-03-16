@@ -12,10 +12,10 @@ Anna Jung is a Senior DevOps Engineer at SAP and has spent the last two years en
  Prior to joining SAP, Anna worked in an extreme programming environment developing high 
  performance microservices using Spring and Apache Geode.
 
- Her latest focus are contributing to open source projects, learning about developer advocacy, 
+ Her latest focus is contributing to open source projects, learning about developer advocacy, 
  and programming in go.
  
- In her free time, Anna enjoys attending film festivals 🎬 and sketchnoting ✍️
+ In her free time, Anna enjoys attending film festivals 🎬 and drawing sketchnotes ✍️
 
 - [Twitter](https://twitter.com/antheajung)
 - [LinkedIn](https://www.linkedin.com/in/antheajung)
