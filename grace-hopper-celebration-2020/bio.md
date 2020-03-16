@@ -1,4 +1,3 @@
-<br />
 
 # Hello 👋 Thank you for joining us! 
 
