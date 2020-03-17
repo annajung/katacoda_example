@@ -1,4 +1,4 @@
-<img src="./assets/kubernetes-icon-color.png" alt="Kubernetes Logo" width="1501" />
+<img src="./assets/sketchnote_core_components.png" alt="Kubernetes Logo" width="1501" />
 
 - kube-apiserver
 - etcd
