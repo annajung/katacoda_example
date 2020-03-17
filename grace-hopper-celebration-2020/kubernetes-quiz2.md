@@ -1,4 +1,3 @@
-
 ## Example Quiz
 
 What is Kubernetes?
