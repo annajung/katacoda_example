@@ -54,5 +54,21 @@
   },
   "backend": {
     "imageid": "kubernetes-cluster-running"
+  },
+  "assets": {
+    "host01": [
+      {
+        "file": "example1.yaml",
+        "target": "~/",
+        "chmod": "+x"
+      }
+    ],
+    "client": [
+      {
+        "file": "example2.yaml",
+        "target": "~/",
+        "chmod": "+x"
+      }
+    ]
   }
 }
