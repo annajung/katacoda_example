@@ -59,15 +59,13 @@
     "host01": [
       {
         "file": "example1.yaml",
-        "target": "/root",
-        "chmod": "+x"
+        "target": "/root"
       }
     ],
     "client": [
       {
         "file": "example2.yaml",
-        "target": "~/",
-        "chmod": "+x"
+        "target": "/root"
       }
     ]
   }
