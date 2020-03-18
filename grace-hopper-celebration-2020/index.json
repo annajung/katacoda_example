@@ -59,7 +59,7 @@
     "host01": [
       {
         "file": "example1.yaml",
-        "target": "~/",
+        "target": "/root",
         "chmod": "+x"
       }
     ],
