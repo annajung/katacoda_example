@@ -1,5 +1,8 @@
 Basic resources: pods, service, deployment, and etc.
 
+`git clone -b yaml https://github.com/annajung/katacoda_example.git`{{execute}}
+
+
 Interacting with resources like an expert!
 - `create`
 - `-o yaml`
