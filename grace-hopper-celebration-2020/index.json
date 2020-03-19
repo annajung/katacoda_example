@@ -51,13 +51,12 @@
     "embedded_survey_url": ""
   },
   "environment": {
-    "uilayout": "editor-terminal"
+    "uilayout": "terminal-terminal"
   },
   "backend": {
     "imageid": "kubernetes-cluster"
   },
   "assets": {
-    "host01": [{"file": "example1.yaml", "target": "/root"}],
-    "client": [{"file": "example2.yaml", "target": "/root"}]
+    "host01": [{"file": "example1.yaml", "target": "/root"}]
   }
 }
