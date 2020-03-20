@@ -54,10 +54,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "kubernetes"
-  },
-  "files": [
-    "example1.yaml",
-    "example2.yaml"
-  ]
+    "imageid": "kubernetes-cluster-running"
+  }
 }
