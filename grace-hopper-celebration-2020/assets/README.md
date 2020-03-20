@@ -1,1 +1,1 @@
-https://github.com/cncf/artwork
+- Kubernetes logo retrieved from [CNCF](https://github.com/cncf/artwork)
