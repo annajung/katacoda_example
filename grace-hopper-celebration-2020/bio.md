@@ -9,7 +9,7 @@ Anna Jung is a Senior DevOps Engineer at SAP and has spent the last two years en
  digital transformation using Kubernetes. In her current project, Anna leads a team 
  focused on multi-cloud infrastructure automation and deployment of traditional and 
  cloud native applications. She is a Certified Kubernetes Application Developer (CKAD)
- and currently scheduled to take a Certified Kubernetes Administrator (CKA) exam in May. 
+ and a Certified Kubernetes Administrator (CKA). 
  
  Prior to joining SAP, Anna worked in an extreme programming environment developing high 
  performance microservices using Spring and Apache Geode.
