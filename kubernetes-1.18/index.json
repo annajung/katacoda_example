@@ -2,7 +2,6 @@
   "title": "Kubernetes 1.18 Env Playground",
   "description": "Kubernetes 1.18 Env Playground",
   "difficulty": "Beginner",
-  "time": "60mins",
   "details": {
     "steps": [
       {

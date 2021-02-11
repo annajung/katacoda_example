@@ -1,8 +1,7 @@
 {
-  "title": "Kubernetes 1.19 Env Playground",
-  "description": "Kubernetes 1.19 Env Playground",
+  "title": "Kubernetes 1.14 Env Playground",
+  "description": "Kubernetes 1.14 Env Playground",
   "difficulty": "Beginner",
-  "time": "60mins",
   "details": {
     "steps": [
       {
@@ -22,6 +21,6 @@
     "uilayout": "terminal"
   },
   "backend": {
-    "imageid": "kubernetes-cluster-running:1.19"
+    "imageid": "kubernetes-cluster-running"
   }
 }
