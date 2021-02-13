@@ -1,0 +1,36 @@
+{
+  "title": "Kubernetes 1.20 Env Playground",
+  "description": "Kubernetes 1.20 Env Playground",
+  "difficulty": "Beginner",
+  "details": {
+    "steps": [
+      {
+	    "title": "Playground",
+	    "text": "playground.md",
+        "foreground": "script.sh"
+      }
+    ],
+    "assets": {
+      "host01": [
+        {
+          "file": "upgrade.sh",
+          "target": "/usr/bin/",
+          "chmod": "+x"
+        }
+      ]
+    },
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+    "embedded_survey_url": ""
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes-cluster-running:1.18"
+  }
+}
