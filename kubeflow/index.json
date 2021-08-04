@@ -22,7 +22,6 @@
     "dashboards": [{"name": "Jupyterhub", "port": 80}, {"name": "Dashboard", "port": 31380}]
   },
   "backend": {
-    "imageid": "kubernetes-kubeflow",
-    "port": 80
+    "imageid": "kubernetes-cluster-running:1.18"
   }
 }
